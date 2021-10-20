@@ -1,0 +1,3 @@
+centos:centos7
+alpine
+redhat/ubi8:latest
